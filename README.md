@@ -1,7 +1,7 @@
 # Dinosaur-Game
 
 This repository contains my Google Chrome dinosaur game clone.
-[![Demo Dinosaur Game Clone](add gif link)](https://youtu.be/pOo4ci-Xkpk)
+[![Demo Dinosaur Game Clone](https://github.com/Kartiksaini001/Dinosaur-Game/blob/main/dino-game.gif)](https://youtu.be/pOo4ci-Xkpk)
 
 ### Instructions and Features
 
@@ -15,4 +15,4 @@ This repository contains my Google Chrome dinosaur game clone.
 
 ### Enjoy the Game
 
-[Play the game form here](add game link)
+[Play the game form here](https://kartiksaini001.github.io/Dinosaur-Game/)
