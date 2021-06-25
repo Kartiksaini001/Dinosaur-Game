@@ -15,4 +15,4 @@ This repository contains my Google Chrome dinosaur game clone.
 
 ### Enjoy the Game
 
-[Play the game form here](https://kartiksaini001.github.io/Dinosaur-Game/)
+[Play the game from here](https://kartiksaini001.github.io/Dinosaur-Game/)
